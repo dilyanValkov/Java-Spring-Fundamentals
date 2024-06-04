@@ -4,146 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4fc1be-6f1d-4c01-b81a-184060b694b8" name="Changes" comment="Created PictureRepository">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Pathfinder.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/PathfinderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/entities/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/entities/Comment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/entities/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/entities/Picture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/entities/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/entities/Route.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/entities/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/enums/CategoryType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/enums/UserLevel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/model/enums/UserRoles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/repository/RouteRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/web/controller/HomeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/web/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/softuni/Pathfinder/web/dto/UserRegisterDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/css/mobile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/add-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/amazing-routes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/bicycle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/car.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/cloudy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/difficulty-level.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/most-commented.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/motorcycle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/pedestrian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/pic1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/pic2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/pic3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/pic4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/rainy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/site-bgr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/01d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/01n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/02d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/02n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/03d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/03n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/04d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/04n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/09d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/09n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/10d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/10n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/11d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/11n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/13d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/13n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/50d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/weather-icons/50n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/add-route.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/bicycle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/car.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/motorcycle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/pedestrian.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/route-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/routes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserController.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/entities/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/entities/Comment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/entities/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/entities/Picture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/entities/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/entities/Route.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/entities/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/enums/CategoryType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/enums/UserLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/model/enums/UserRoles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/repository/PictureRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/repository/RouteRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/web/controller/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/web/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softuni/Pathfinder/web/dto/UserRegisterDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add-route.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/bicycle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/car.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/motorcycle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pedestrian.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/route-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/routes.html" beforeDir="false" />
-    </list>
+    <list default="true" id="ec4fc1be-6f1d-4c01-b81a-184060b694b8" name="Changes" comment="Created PictureRepository" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717494377291</updated>
-      <workItem from="1717494378691" duration="756000" />
+      <workItem from="1717494378691" duration="1482000" />
     </task>
     <task id="LOCAL-00001" summary="Created PictureRepository">
       <option name="closed" value="true" />
@@ -215,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717494524509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created PictureRepository">
+      <option name="closed" value="true" />
+      <created>1717495142622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717495142622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
