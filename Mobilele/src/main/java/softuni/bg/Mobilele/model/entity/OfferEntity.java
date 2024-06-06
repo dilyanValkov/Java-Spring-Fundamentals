@@ -38,4 +38,5 @@ public class OfferEntity extends BaseEntity {
     public void setEngine(EngineType engine) {
         this.engine = engine;
     }
+
 }

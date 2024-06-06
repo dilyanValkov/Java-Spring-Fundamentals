@@ -9,12 +9,11 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import softuni.bg.Mobilele.model.dto.AddOfferDto;
-import softuni.bg.Mobilele.model.dto.OfferDetailsDto;
 import softuni.bg.Mobilele.model.enums.EngineType;
 import softuni.bg.Mobilele.service.OfferService;
 
 @Controller
-@RequestMapping("/offers")
+@RequestMapping("/offer")
 public class OfferController {
 
     private final OfferService offerService;
@@ -45,7 +44,7 @@ public class OfferController {
             return "redirect:/offers/add";
         }
         long newOfferId = offerService.createOffer(dto);
-        return "redirect:/offers" + newOfferId;
+        return "redirect:/offers/" + newOfferId;
     }
 
 }

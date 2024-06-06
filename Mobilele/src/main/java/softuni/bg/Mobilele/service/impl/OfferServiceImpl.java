@@ -23,7 +23,11 @@ public class OfferServiceImpl implements OfferService {
 
     @Override
     public long createOffer(AddOfferDto addOfferDto) {
-        OfferEntity offerEntity = modelMapper.map(addOfferDto, OfferEntity.class);
+
+        OfferEntity offerEntity = new OfferEntity();
+        offerEntity.setDescription(addOfferDto.description());
+        offerEntity.setEngine(addOfferDto.engineType());
+        offerEntity.setMileage(addOfferDto.mileage());
         return this.offerRepository.save(offerEntity).getId();
     }
 
